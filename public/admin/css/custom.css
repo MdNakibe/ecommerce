@@ -1,0 +1,20 @@
+.cate-image {
+    width: 115px;
+    height: 55px;
+}
+
+.view_upload {
+    text-align: center;
+    margin-left: -2%;
+}
+
+
+/* footer {
+    position: fixed;
+    bottom: 0;
+} */
+
+.edit_category_image {
+    width: 300px;
+    height: 100px;
+}
